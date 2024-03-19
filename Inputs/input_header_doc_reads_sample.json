@@ -9,8 +9,8 @@
   "service_label": "INSPECTION_LOT_DOC",
   "api_type": "reads",
   "InspectionLot": {
-    "InspectionLot": null,
-    "DocType": "INSPECTIONCERTIFICATE",
+    "InspectionLot": 1,
+    "DocType": "QRCODE",
     "DocIssuerBusinessPartner": 201,
     "OperationDoc": {
       "Operations": null,
